@@ -1,16 +1,16 @@
 <!-- :female_detective: Looking for a new champion -->
 
-# DAppNode package _Goerli_
+# DAppNode package _SiberiumLab_
 
 <!--DAppNode package logo (could be added with an hyperlink to a youtube video): -->
 
-![](avatar-goerli-geth)
+![](avatar-siberiumlab)
 
 <!--Brief introduction about the source project (official project definition is an option): -->
 
-Görli Testnet is the first proof-of-authority cross-client testnet, synching Parity Ethereum, Geth, Nethermind, Hyperledger Besu (formerly Pantheon), and EthereumJS. This testnet is a community-based project, completely open-source, naturally. It was born in September 2018 during ETHBerlin and has been growing in contributors ever since.
+SiberiumLab Testnet is the first proof-of-authority cross-client testnet, synching Parity Ethereum, Geth, Nethermind, Hyperledger Besu (formerly Pantheon), and EthereumJS. This testnet is a community-based project, completely open-source, naturally. It was born in September 2018 during ETHBerlin and has been growing in contributors ever since.
 
-More information about the source project can be found at [their official website](https://goerli.net/)
+More information about the source project can be found at [their official website](https://siberium.net/)
 
 ### Manteinance
 
@@ -19,7 +19,6 @@ More information about the source project can be found at [their official websit
 
 |      Updated       |    Champion/s    |
 | :----------------: | :--------------: |
-| :heavy_check_mark: | @pablomendezroyo |
 
 ### License
 

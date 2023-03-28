@@ -1,20 +1,20 @@
 version: "3.5"
 services:
-  goerli-geth.dnp.dappnode.eth:
-    image: "goerli-geth.dnp.dappnode.eth:0.4.12"
+  siberiumlab-geth.dnp.dappnode.eth:
+    image: "siberiumlab-geth.dnp.dappnode.eth:0.1.1"
     build:
       context: .
       args:
         UPSTREAM_VERSION: v1.11.6
     volumes:
-      - "goerli:/goerli"
+      - "siberiumlab:/siberiumlab"
     ports:
-      - "30803:30803/tcp"
-      - "30803:30803/udp"
+      - "30001:30001/tcp"
+      - "30001:30001/udp"
     restart: unless-stopped
     environment:
       - "EXTRA_OPTION=--http.api eth,engine,net,web3,txpool"
-      - P2P_PORT=30803
+      - P2P_PORT=30001
       - SYNCMODE
 volumes:
-  goerli: {}
+  siberiumlab: {}

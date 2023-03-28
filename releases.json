@@ -12,7 +12,7 @@
     "uploadedTo": {
       "dappnode": "Fri, 08 Nov 2019 21:34:00 GMT"
     },
-    "link": "http://my.dappnode/#/sdk/publish/r=goerli-geth.dnp.dappnode.eth&v=0.4.2&h=%2Fipfs%2FQmcU2Xodanr6otLZyrwcCcfUAdbQs7UBrwHTpd7qNsJTJT"
+    "link": "http://my.dappnode/#/sdk/publish/r=siberiumlab.dnp.dappnode.eth&v=0.4.2&h=%2Fipfs%2FQmcU2Xodanr6otLZyrwcCcfUAdbQs7UBrwHTpd7qNsJTJT"
   },
   "0.4.3": {
     "hash": "/ipfs/QmWAF3Pqbc2D2LuXrTha2v36K4E4SRaQ3uAhpAptkazbX8",
@@ -20,7 +20,7 @@
     "uploadedTo": {
       "dappnode": "Wed, 15 Apr 2020 08:23:42 GMT"
     },
-    "link": "http://my.dappnode/#/sdk/publish/r=goerli-geth.dnp.dappnode.eth&v=0.4.3&h=%2Fipfs%2FQmWAF3Pqbc2D2LuXrTha2v36K4E4SRaQ3uAhpAptkazbX8"
+    "link": "http://my.dappnode/#/sdk/publish/r=siberiumlab.dnp.dappnode.eth&v=0.4.3&h=%2Fipfs%2FQmWAF3Pqbc2D2LuXrTha2v36K4E4SRaQ3uAhpAptkazbX8"
   },
   "0.4.4": {
     "hash": "/ipfs/QmX6XfkQi5mQ9zDzaf2QRqCqBAJP8HWDB6kuxog7NchGoT",
@@ -28,7 +28,7 @@
     "uploadedTo": {
       "remote": "Wed, 29 Apr 2020 14:20:32 GMT"
     },
-    "link": "http://my.dappnode/#/sdk/publish/r=goerli-geth.dnp.dappnode.eth&v=0.4.4&h=%2Fipfs%2FQmX6XfkQi5mQ9zDzaf2QRqCqBAJP8HWDB6kuxog7NchGoT"
+    "link": "http://my.dappnode/#/sdk/publish/r=siberiumlab.dnp.dappnode.eth&v=0.4.4&h=%2Fipfs%2FQmX6XfkQi5mQ9zDzaf2QRqCqBAJP8HWDB6kuxog7NchGoT"
   },
   "0.4.6": {
     "hash": "/ipfs/QmerVXpzYdNWJ1JZ9rbwAWPsnaHXDgCSKFVt2VMhs2hjs4",
@@ -36,20 +36,20 @@
     "uploadedTo": {
       "remote": "Mon, 08 Jun 2020 12:13:19 GMT"
     },
-    "link": "http://my.dappnode/#/sdk/publish/r=goerli-geth.dnp.dappnode.eth&v=0.4.6&h=%2Fipfs%2FQmerVXpzYdNWJ1JZ9rbwAWPsnaHXDgCSKFVt2VMhs2hjs4"
+    "link": "http://my.dappnode/#/sdk/publish/r=siberiumlab.dnp.dappnode.eth&v=0.4.6&h=%2Fipfs%2FQmerVXpzYdNWJ1JZ9rbwAWPsnaHXDgCSKFVt2VMhs2hjs4"
   },
   "0.4.7": {
     "hash": "/ipfs/QmUZL81erfT5uVYSjc46nWQD9TrhA8KLzEeosUgeAyLd5u",
     "uploadedTo": {
       "http://ipfs.dappnode.io": "Tue, 22 Sep 2020 13:02:31 GMT"
     },
-    "link": "https://dappnode.github.io/sdk-publish/?r=goerli-geth.dnp.dappnode.eth&v=0.4.7&h=%2Fipfs%2FQmUZL81erfT5uVYSjc46nWQD9TrhA8KLzEeosUgeAyLd5u"
+    "link": "https://dappnode.github.io/sdk-publish/?r=siberiumlab.dnp.dappnode.eth&v=0.4.7&h=%2Fipfs%2FQmUZL81erfT5uVYSjc46nWQD9TrhA8KLzEeosUgeAyLd5u"
   },
   "0.4.8": {
     "hash": "/ipfs/QmQk8TwSXYVEG5S6mCrkb3dGQL43CGtGgm6JXSk78gMgAD",
     "uploadedTo": {
       "http://ipfs.dappnode.io": "Sat, 07 Nov 2020 01:19:25 GMT"
     },
-    "link": "https://dappnode.github.io/sdk-publish/?r=goerli-geth.dnp.dappnode.eth&v=0.4.8&h=%2Fipfs%2FQmQk8TwSXYVEG5S6mCrkb3dGQL43CGtGgm6JXSk78gMgAD"
+    "link": "https://dappnode.github.io/sdk-publish/?r=siberiumlab.dnp.dappnode.eth&v=0.4.8&h=%2Fipfs%2FQmQk8TwSXYVEG5S6mCrkb3dGQL43CGtGgm6JXSk78gMgAD"
   }
 }

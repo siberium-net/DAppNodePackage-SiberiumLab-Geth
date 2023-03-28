@@ -1,38 +1,37 @@
 {
-  "name": "goerli-geth.dnp.dappnode.eth",
+  "name": "siberiumlab-geth.dnp.dappnode.eth",
   "version": "0.4.30",
   "upstreamVersion": "v1.11.6",
   "upstreamRepo": "ethereum/go-ethereum",
   "upstreamArg": "UPSTREAM_VERSION",
-  "shortDescription": "Goerli is an Ethereum testnet merged with the Prater Beacon Chain",
-  "description": "Geth version for the Göerli Execution Layer Testnet. Göerli Testnet is a cross-client testnet, syncing, Geth, Nethermind and Erigon. This testnet is a community-based project, completely open-source, naturally. It was born in September 2018 during ETHBerlin and has been growing in contributors ever since. More info [here](https://goerli.net/). \n\n      .---------.\n      |.-------.|\n      ||>run#  ||\n      ||       ||\n      |'-------'|\n    .-^---------^-.\n    |Göerli Testnet|\n    '-------------'\n",
+  "shortDescription": "SiberiumLab testnet is an Ethereum based L1 blockchain",
+  "description": "Geth version for the SiberiumLab Test Network. SiberiumLab is a cross-client, syncing, Geth, Nethermind and Erigon. This network is a community-based project, completely open-source, naturally. It was born in 2023 and has been growing in contributors ever since. More info [here](https://siberium.net/). \n\n      .---------.\n      |.-------.|\n      ||>run#  ||\n      ||       ||\n      |'-------'|\n    .-^---------^-.\n    |SiberiumLab Network|\n    '-------------'\n",
   "type": "library",
   "chain": "ethereum",
-  "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
+  "author": "Siberium Network <admin@siberium.net> (https://github.com/siberium)",
   "contributors": [
-    "Eduardo Antuña <eduadiez@gmail.com> (https://github.com/eduadiez)",
-    "Stefaan Ponnet (https://github.com/sponnet)"
+    "Siberium <root@siberium.net> (https://github.com/siberium)"
   ],
   "categories": ["Developer tools"],
-  "keywords": ["ethereum", "testnet", "geth", "goerli", "poa"],
+  "keywords": ["ethereum", "network", "geth", "siberium", "siberiumlab", "testnet"],
   "architectures": ["linux/amd64", "linux/arm64"],
   "links": {
-    "homepage": "https://github.com/dappnode/DAppNodePackage-goerli-geth#readme",
-    "api": "http://goerli-geth.dappnode:8545",
-    "engineAPI": "http://goerli-geth.dappnode:8551"
+    "homepage": "https://github.com/dappnode/DAppNodePackage-SiberiumLab-Geth#readme",
+    "api": "http://siberiumlab.dappnode:8545",
+    "engineAPI": "http://siberiumlab.dappnode:8551"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dappnode/DAppNodePackage-goerli-geth.git"
+    "url": "https://github.com/siberium/DAppNodePackage-SiberiumLab-Geth.git"
   },
   "bugs": {
-    "url": "https://github.com/dappnode/DAppNodePackage-goerli-geth/issues"
+    "url": "https://github.com/siberium/DAppNodePackage-SiberiumLab-Geth/issues"
   },
   "license": "GPL-3.0",
   "globalEnvs": [
     {
       "envs": ["CONSENSUS_CLIENT_PRATER"],
-      "services": ["goerli-geth.dnp.dappnode.eth"]
+      "services": ["siberiumlab-geth.dnp.dappnode.eth"]
     }
   ],
   "requirements": {
